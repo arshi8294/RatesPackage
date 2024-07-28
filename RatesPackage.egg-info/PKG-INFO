@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: RatesPackage
+Version: 0.1
+Summary: get dollars rates from currency freaks
+Home-page: #
+Author: Arshia
+Author-email: arshi829495@gmail.com
+License: MIT
+Requires-Dist: requests

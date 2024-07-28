@@ -1,0 +1,9 @@
+setup.py
+RatesPackage.egg-info/PKG-INFO
+RatesPackage.egg-info/SOURCES.txt
+RatesPackage.egg-info/dependency_links.txt
+RatesPackage.egg-info/not-zip-safe
+RatesPackage.egg-info/requires.txt
+RatesPackage.egg-info/top_level.txt
+currency_freaks/__init__.py
+currency_freaks/handler.py
